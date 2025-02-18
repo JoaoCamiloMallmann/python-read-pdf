@@ -14,7 +14,6 @@ Este projeto utiliza a biblioteca `pdfplumber` para extrair dados de um arquivo 
 3. **Estruturação dos Dados**: As informações extraídas são organizadas em um DataFrame do `pandas` com as colunas: "Código", "Descrição", "Medidas", "Preço Unitário", e "Unidade".
 4. **Exportação para CSV**: Após a organização dos dados, o código pode salvar o DataFrame em um arquivo CSV para fácil manipulação e análise posterior.
 
-   ```
 
 ## Dependências
 
@@ -22,5 +21,3 @@ Este projeto utiliza a biblioteca `pdfplumber` para extrair dados de um arquivo 
 - `pandas`: Para manipulação e estruturação dos dados extraídos.
 
 ---
-
-Esse `README` descreve o processo geral de como o código funciona e como você pode utilizá-lo para extrair dados de qualquer PDF com estrutura semelhante.
